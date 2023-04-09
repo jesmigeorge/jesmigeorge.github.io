@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <b>UNDERGRAD AT CET TRIVANDRUM</b>
   <br><br>
   <a href="https://www.linkedin.com/in/jesmi-george-66508a221">View My LinkedIn Profile</a> <br>
-  <a href="https://github.com/jesmigeorge">View My Github Profile</a>
+  <a href="https://github.com/jesmigeorge">View My Github Profile</a><br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
