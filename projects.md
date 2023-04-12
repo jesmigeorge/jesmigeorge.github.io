@@ -9,5 +9,5 @@
 
 <img src ="images/Projects/pune.jpg?raw=true"/>
 
-## [Scraping website to get trending courses](https://nbviewer.jupyter.org/github/jeswingeorge/Python-DS-notes/blob/master/Web%20scrapping/web-scrapping-AV.ipynb)
+## [Scraping website to get trending courses](https://nbviewer.org/github/jesmigeorge/Scraping-website-to-get-trending-courses/blob/master/naukri.Com.ipynb)
 ---
