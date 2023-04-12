@@ -8,6 +8,6 @@
 
 ## [Linked List](/Notes/LinkedList.md)
 
-## [Binary Tree](/Notes/binaryTree.md)
+## [Binary Tree](/binaryTree.md)
 
-## [Binary Search Tree](/Notes/BST.md)
+## [Binary Search Tree](/BST.md)
